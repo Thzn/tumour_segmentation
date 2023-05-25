@@ -4,6 +4,8 @@ training codes for their experimentation purposes.
 
 <img width="929" alt="Screenshot 2023-05-24 at 5 28 23 pm" src="https://github.com/Thzn/tumour_segmentation/assets/19911856/80139950-f0f5-45a0-a8ac-b235e232dcb4">
 
+
+
 1. Download the dataset from [Kits-2023](https://kits-challenge.org/kits23/) challenge website. 
 
 
